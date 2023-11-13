@@ -1,0 +1,8 @@
+C:\Users\gabri\source\repos\paroinpar\paroinpar\bin\Debug\paroinpar.exe.config
+C:\Users\gabri\source\repos\paroinpar\paroinpar\bin\Debug\paroinpar.exe
+C:\Users\gabri\source\repos\paroinpar\paroinpar\bin\Debug\paroinpar.pdb
+C:\Users\gabri\source\repos\paroinpar\paroinpar\obj\Debug\paroinpar.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\paroinpar\paroinpar\obj\Debug\paroinpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\paroinpar\paroinpar\obj\Debug\paroinpar.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\paroinpar\paroinpar\obj\Debug\paroinpar.exe
+C:\Users\gabri\source\repos\paroinpar\paroinpar\obj\Debug\paroinpar.pdb
